@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋! I'm Vini and I'm a Full Stack Engineer with Technical Project Leadership experience.</h2>
+<h2 align="left">Hi there 👋! I'm Vini and I'm a Full Stack Developer with Technical Project Management experience.</h2>
 
 ###
 
